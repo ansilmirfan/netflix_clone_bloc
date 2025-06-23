@@ -1,6 +1,6 @@
 # Netflix Clone BLoC
 
-A Flutter-based Netflix Clone app that uses the BLoC architecture for state management and provides streaming features like video trailers, web view integration, and animations. This app is built using the **MovieDB API** to simulate Netflix-like functionality.
+A Flutter-based Netflix Clone app that uses the BLoC architecture for state management and provides streaming features like video trailers, web view integration, and animations. This app is built using the **TMDB API** to simulate Netflix-like functionality.
 
 ## Packages Used
 
@@ -18,11 +18,11 @@ A Flutter-based Netflix Clone app that uses the BLoC architecture for state mana
 - **State Management**: Uses the BLoC pattern to manage app state efficiently.
 - **Shimmer Effect**: Provides a shimmering effect during data loading.
 
-- **API Integration**: Fetches data from the **MovieDB API** to populate the app's content, simulating Netflix's movie and series library.
+- **API Integration**: Fetches data from the **TMDB API** to populate the app's content, simulating Netflix's movie and series library.
 
 ## API Integration
 
-The app fetches movie and series data through the **MovieDB API** (The Movie Database). This API provides movie and TV series information, including trailers, images, and metadata, simulating the content available on Netflix.
+The app fetches movie and series data through the **TMDBDB API** (The Movie Database). This API provides movie and TV series information, including trailers, images, and metadata, simulating the content available on Netflix.
 
 ## Installation
 
